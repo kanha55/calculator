@@ -1,0 +1,38 @@
+table,th,td{
+	border-collapse: collapse;
+	border: 2px solid black;
+
+}
+
+.two_column{
+	width: 225px;
+	font-weight: bold;
+	font-size: 50px;
+	height: 100px;
+}
+.one_column{
+
+	width: 110px;
+	font-size: 50px;
+	height: 100px;
+}
+
+#text{
+    width: 440px;
+    background-color: rgb(60, 60, 60);
+    color: white;
+    font-size: 90px;
+    height: 100px;
+	
+}
+.yellow{
+
+	background-color: rgb(255, 134, 18);
+}
+.large{
+    height: 200px;
+}
+body{
+
+	background-color:rgb(58, 88, 71);
+}
